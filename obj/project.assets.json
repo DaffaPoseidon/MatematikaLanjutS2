@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\M (3)\\BahasaPemrograman\\C#\\TugasPakCahya\\HelloWorld.csproj",
+      "projectUniqueName": "D:\\M (3)\\BahasaPemrograman\\C#\\MatematikaLanjutS2\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "D:\\M (3)\\BahasaPemrograman\\C#\\TugasPakCahya\\HelloWorld.csproj",
+      "projectPath": "D:\\M (3)\\BahasaPemrograman\\C#\\MatematikaLanjutS2\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Daffa Cahyo\\.nuget\\packages\\",
-      "outputPath": "D:\\M (3)\\BahasaPemrograman\\C#\\TugasPakCahya\\obj\\",
+      "outputPath": "D:\\M (3)\\BahasaPemrograman\\C#\\MatematikaLanjutS2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daffa Cahyo\\AppData\\Roaming\\NuGet\\NuGet.Config"
